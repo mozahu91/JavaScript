@@ -1,0 +1,4 @@
+To discover the length of your name write your name within quotes. Then write a period (full stop) and the word length like this:
+"yourName".length
+
+"zahidhussain".length = 12
