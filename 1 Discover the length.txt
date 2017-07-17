@@ -1,4 +1,38 @@
+INTRODUCTION:
+
 To discover the length of your name write your name within quotes. Then write a period (full stop) and the word length like this:
 "yourName".length
 
 "zahidhussain".length = 12
+
+Basic math
+
+3 +4
+
+* / for multiplication, division
+
+Error: does not compute!
+There are some things you can't do in the console. Computers only speak certain languages, like the one you've been using today: JavaScript!
+
+If you use words that aren't in the JavaScript language, it will get confused and give you an error.
+
+Try to confuse the interpreter by using a word it doesn't know, like eggplant. It will give you a ReferenceError.
+
+COMMENTS:
+So far we've been writing lines of code in the editor. Now we see two lines that start with //.
+
+The // sign is for comments. A comment is a line of text that JavaScript won't try to run as code. It's just for humans to read.
+
+Comments make your program easier to understand. When you look back at your code or others want to collaborate with you, they can read your comments and easily figure out what your code does.
+
+// This is a comment that the computer will ignore. 
+// It is for your eyes only!
+"cake".length
+
+WHAT is JAVASCRIPT?
+What can we use JavaScript for?
+
+ make websites respond to user interaction
+ build apps and games (e.g. blackjack)
+ access information on the Internet (e.g. find out the top trending words on Twitter by topic)
+ organize and present data (e.g. automate spreadsheet work; data visualization)
