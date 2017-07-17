@@ -22,3 +22,28 @@ b. strings are sequences of characters, like the letters a-z, spaces, and even n
 To make a number in your code, just write a number as numerals without quotes: 42, 190.12334.
 
 To write a string, surround words with quotes: "What is your name?"
+lengthcounts every chat including space
+
+Data Type III: Booleans
+Nice job! Next let's look at booleans. A boolean is either true or false.
+
+For example, comparing two numbers returns a true or false result:
+
+23 > 10 is true
+5 < 4 is false
+
+"I'm coding like a champ".length > 10;
+
+Using console.log
+You may have noticed that the interpreter doesn't print out every single thing it does. So if we want to know what it's thinking, we sometimes have to ask it to speak to us.
+
+console.log() will take whatever is inside the parentheses and log it to the console below your code—that's why it's called console.log()!
+
+This is commonly called printing out.
+
+Please print the following two console.log statements at the same time. Type one on line 1 and the other on line 2. Then press Save & Submit Code.
+
+console.log(2 * 5)
+console.log("Hello")
+
+
